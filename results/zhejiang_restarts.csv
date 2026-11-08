@@ -1,0 +1,5 @@
+circuit,surface,nominal_spacing_m,mesh_nodes,strategy,initialisation,iterations,solver_status,initial_barrier_parameter,acceptable_optimality_tolerance,acceptable_constraint_tolerance,lap_time_s,objective,original_accepted,full_supplemental_pass,original_constraint_max_violation_scaled,stationarity_residual_scaled,trajectory_id
+zhejiang,dry,1,3205,constant,restart_from_1m,120,Solved_To_Acceptable_Level,1e-05,0.0003,1e-07,102.406069125208,102.66597708414395,true,false,1.2734004795733612e-09,9.749204690685529e-05,lap_265
+zhejiang,dry,1,3205,constant,reconstruct_from_3m,116,Solved_To_Acceptable_Level,1e-05,0.0003,1e-07,102.38465411929201,102.6458164150211,true,false,1.5009821771778953e-08,1.8777073365172647e-05,lap_266
+zhejiang,dry,1,3205,fitted_dry,restart_from_1m,81,Solved_To_Acceptable_Level,1e-05,0.0003,1e-07,101.97260517041752,102.14087994749612,true,false,2.6530233774614553e-08,6.839186772380717e-05,lap_267
+zhejiang,dry,1,3205,fitted_dry,reconstruct_from_3m,40,Solved_To_Acceptable_Level,1e-05,0.0003,1e-07,101.97572122000588,102.14887033225355,true,false,1.1701758561698944e-09,0.00011588181459036255,lap_268

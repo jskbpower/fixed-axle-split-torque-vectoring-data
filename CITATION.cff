@@ -2,7 +2,7 @@ cff-version: 1.2.0
 message: "If you use this dataset, please cite it using the metadata below."
 title: "Fixed axle split rear torque vectoring data"
 type: dataset
-version: "1.0.0"
+version: "1.1.0"
 authors:
   - given-names: Longjie
     family-names: Ren
@@ -10,3 +10,5 @@ authors:
   - given-names: Lin
     family-names: Chen
 
+date-released: 2026-11-08
+url: "https://github.com/jskbpower/fixed-axle-split-torque-vectoring-data/releases/tag/v1.1.0"

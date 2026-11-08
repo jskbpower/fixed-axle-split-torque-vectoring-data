@@ -1,0 +1,3 @@
+strategy,projection_difference_mae_nm,projection_difference_max_nm,derated_sample_fraction,derating_threshold_nm,mean_derating_nm,preserve_request_mae_nm
+constant,0.001574631806415667,0.6039711719020033,0.0,0.01,2.37163375358149e-15,124.14782256590844
+fitted_dry,0.002657672735020815,0.5380522323189325,0.0,0.01,4.4322076872857804e-15,80.29181581995427

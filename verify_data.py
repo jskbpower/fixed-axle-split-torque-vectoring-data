@@ -36,7 +36,7 @@ def retained(rows, strategy, surface=None):
 
 def check_trajectories():
     entries = read_csv("trajectories/index.csv")
-    assert len(entries) == 258
+    assert len(entries) == 268
     index = {r["trajectory_id"]: r for r in entries}
     assert len(index) == len(entries)
     for r in entries:
@@ -155,4 +155,6 @@ def main():
 
 if __name__ == "__main__":
     main()
+    from verify_supplement import main as check_supplement
+    check_supplement()
 
