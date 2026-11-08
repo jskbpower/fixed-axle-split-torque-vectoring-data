@@ -1,0 +1,649 @@
+trajectory_id,check,quantity_unit,worst_value,tolerance,passed
+lap_021,Collocation dynamics and state continuity,scaled,4.355488455488887e-08,1e-05,true
+lap_021,All supplementary path constraints,scaled,0.06430764947347137,1e-05,false
+lap_021,Four friction ellipse constraints,scaled,0.06430764947347137,1e-05,false
+lap_021,Algebraic load transfer closure,scaled,0.044470259898360356,1e-05,false
+lap_021,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_021,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_021,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_021,All input slew limits,per_channel_physical_units,225.13847422056278,0.05,false
+lap_021,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_021,Rear motor power ceilings,W,0.0,0.05,true
+lap_021,Front motor power ceiling,W,39.385658936109394,0.05,false
+lap_021,Full supplementary diagnostic,,,,false
+lap_023,Collocation dynamics and state continuity,scaled,7.297356865269833e-07,1e-05,true
+lap_023,All supplementary path constraints,scaled,0.06172652349881628,1e-05,false
+lap_023,Four friction ellipse constraints,scaled,0.06172652349881628,1e-05,false
+lap_023,Algebraic load transfer closure,scaled,0.05673236089636229,1e-05,false
+lap_023,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_023,Wheel slip constraints,scaled,0.0011767461546798395,1e-05,false
+lap_023,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_023,All input slew limits,per_channel_physical_units,137.43128223222448,0.05,false
+lap_023,Rear motor torque ceiling,N m,4.547473508864641e-13,0.01,true
+lap_023,Rear motor power ceilings,W,74.81332389242016,0.05,false
+lap_023,Front motor power ceiling,W,0.0,0.05,true
+lap_023,Full supplementary diagnostic,,,,false
+lap_025,Collocation dynamics and state continuity,scaled,1.0223128802258966e-06,1e-05,true
+lap_025,All supplementary path constraints,scaled,0.06721036688262153,1e-05,false
+lap_025,Four friction ellipse constraints,scaled,0.06721036688262153,1e-05,false
+lap_025,Algebraic load transfer closure,scaled,0.06307078350235966,1e-05,false
+lap_025,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_025,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_025,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_025,All input slew limits,per_channel_physical_units,110.80420852286443,0.05,false
+lap_025,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_025,Rear motor power ceilings,W,0.0,0.05,true
+lap_025,Front motor power ceiling,W,22.100400500785327,0.05,false
+lap_025,Full supplementary diagnostic,,,,false
+lap_085,Collocation dynamics and state continuity,scaled,1.0561039468989786e-07,1e-05,true
+lap_085,All supplementary path constraints,scaled,0.05867016245042556,1e-05,false
+lap_085,Four friction ellipse constraints,scaled,0.05867016245042556,1e-05,false
+lap_085,Algebraic load transfer closure,scaled,0.05276068509269229,1e-05,false
+lap_085,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_085,Wheel slip constraints,scaled,9.656357662539243e-05,1e-05,false
+lap_085,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_085,All input slew limits,per_channel_physical_units,150.68853124104862,0.05,false
+lap_085,Rear motor torque ceiling,N m,4.547473508864641e-13,0.01,true
+lap_085,Rear motor power ceilings,W,318.391803432256,0.05,false
+lap_085,Front motor power ceiling,W,30.116465980448993,0.05,false
+lap_085,Full supplementary diagnostic,,,,false
+lap_086,Collocation dynamics and state continuity,scaled,1.5884142391155154e-09,1e-05,true
+lap_086,All supplementary path constraints,scaled,0.05698493009272381,1e-05,false
+lap_086,Four friction ellipse constraints,scaled,0.05698493009272381,1e-05,false
+lap_086,Algebraic load transfer closure,scaled,0.048900408683116785,1e-05,false
+lap_086,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_086,Wheel slip constraints,scaled,0.0007044622753687706,1e-05,false
+lap_086,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_086,All input slew limits,per_channel_physical_units,62.084818079472825,0.05,false
+lap_086,Rear motor torque ceiling,N m,4.547473508864641e-13,0.01,true
+lap_086,Rear motor power ceilings,W,30.168736535852076,0.05,false
+lap_086,Front motor power ceiling,W,0.0,0.05,true
+lap_086,Full supplementary diagnostic,,,,false
+lap_087,Collocation dynamics and state continuity,scaled,1.8791006376730948e-07,1e-05,true
+lap_087,All supplementary path constraints,scaled,0.0595887566523099,1e-05,false
+lap_087,Four friction ellipse constraints,scaled,0.0595887566523099,1e-05,false
+lap_087,Algebraic load transfer closure,scaled,0.04813987498233983,1e-05,false
+lap_087,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_087,Wheel slip constraints,scaled,0.00019221082265760865,1e-05,false
+lap_087,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_087,All input slew limits,per_channel_physical_units,80.44040015383689,0.05,false
+lap_087,Rear motor torque ceiling,N m,4.547473508864641e-13,0.01,true
+lap_087,Rear motor power ceilings,W,47.98977588833077,0.05,false
+lap_087,Front motor power ceiling,W,0.0,0.05,true
+lap_087,Full supplementary diagnostic,,,,false
+lap_088,Collocation dynamics and state continuity,scaled,1.095811757570236e-07,1e-05,true
+lap_088,All supplementary path constraints,scaled,0.058495167990996286,1e-05,false
+lap_088,Four friction ellipse constraints,scaled,0.058495167990996286,1e-05,false
+lap_088,Algebraic load transfer closure,scaled,0.053280847388797875,1e-05,false
+lap_088,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_088,Wheel slip constraints,scaled,0.0001871940789980528,1e-05,false
+lap_088,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_088,All input slew limits,per_channel_physical_units,151.17647451552511,0.05,false
+lap_088,Rear motor torque ceiling,N m,4.547473508864641e-13,0.01,true
+lap_088,Rear motor power ceilings,W,321.54776073398534,0.05,false
+lap_088,Front motor power ceiling,W,28.92812337563373,0.05,false
+lap_088,Full supplementary diagnostic,,,,false
+lap_089,Collocation dynamics and state continuity,scaled,5.277686110187474e-09,1e-05,true
+lap_089,All supplementary path constraints,scaled,0.06409625563270782,1e-05,false
+lap_089,Four friction ellipse constraints,scaled,0.06409625563270782,1e-05,false
+lap_089,Algebraic load transfer closure,scaled,0.04729580322655004,1e-05,false
+lap_089,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_089,Wheel slip constraints,scaled,0.00022047512521950093,1e-05,false
+lap_089,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_089,All input slew limits,per_channel_physical_units,59.81596006467407,0.05,false
+lap_089,Rear motor torque ceiling,N m,4.547473508864641e-13,0.01,true
+lap_089,Rear motor power ceilings,W,26.55852366745239,0.05,false
+lap_089,Front motor power ceiling,W,0.0,0.05,true
+lap_089,Full supplementary diagnostic,,,,false
+lap_090,Collocation dynamics and state continuity,scaled,3.1351040347127324e-08,1e-05,true
+lap_090,All supplementary path constraints,scaled,0.057301074243724444,1e-05,false
+lap_090,Four friction ellipse constraints,scaled,0.057301074243724444,1e-05,false
+lap_090,Algebraic load transfer closure,scaled,0.04671958286476087,1e-05,false
+lap_090,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_090,Wheel slip constraints,scaled,3.087891014110812e-05,1e-05,false
+lap_090,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_090,All input slew limits,per_channel_physical_units,12.810781889214923,0.05,false
+lap_090,Rear motor torque ceiling,N m,9.094947017729282e-13,0.01,true
+lap_090,Rear motor power ceilings,W,47.32469438906992,0.05,false
+lap_090,Front motor power ceiling,W,0.0,0.05,true
+lap_090,Full supplementary diagnostic,,,,false
+lap_026,Collocation dynamics and state continuity,scaled,6.184973220298845e-08,1e-05,true
+lap_026,All supplementary path constraints,scaled,0.092716442256091,1e-05,false
+lap_026,Four friction ellipse constraints,scaled,0.092716442256091,1e-05,false
+lap_026,Algebraic load transfer closure,scaled,0.049935468675884984,1e-05,false
+lap_026,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_026,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_026,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_026,All input slew limits,per_channel_physical_units,356.9737121966664,0.05,false
+lap_026,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_026,Rear motor power ceilings,W,0.0,0.05,true
+lap_026,Front motor power ceiling,W,38.928811683203094,0.05,false
+lap_026,Full supplementary diagnostic,,,,false
+lap_028,Collocation dynamics and state continuity,scaled,6.019825417443933e-09,1e-05,true
+lap_028,All supplementary path constraints,scaled,0.06952019321259208,1e-05,false
+lap_028,Four friction ellipse constraints,scaled,0.06952019321259208,1e-05,false
+lap_028,Algebraic load transfer closure,scaled,0.04483853300387533,1e-05,false
+lap_028,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_028,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_028,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_028,All input slew limits,per_channel_physical_units,324.2717194091165,0.05,false
+lap_028,Rear motor torque ceiling,N m,1.1823431123048067e-11,0.01,true
+lap_028,Rear motor power ceilings,W,57.8666290975234,0.05,false
+lap_028,Front motor power ceiling,W,0.0,0.05,true
+lap_028,Full supplementary diagnostic,,,,false
+lap_030,Collocation dynamics and state continuity,scaled,3.3061915200374714e-08,1e-05,true
+lap_030,All supplementary path constraints,scaled,0.07952513401605524,1e-05,false
+lap_030,Four friction ellipse constraints,scaled,0.07952513401605524,1e-05,false
+lap_030,Algebraic load transfer closure,scaled,0.05275636270212253,1e-05,false
+lap_030,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_030,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_030,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_030,All input slew limits,per_channel_physical_units,346.5985066121575,0.05,false
+lap_030,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_030,Rear motor power ceilings,W,37.34508572026971,0.05,false
+lap_030,Front motor power ceiling,W,29.608653546893038,0.05,false
+lap_030,Full supplementary diagnostic,,,,false
+lap_091,Collocation dynamics and state continuity,scaled,1.695739175336733e-08,1e-05,true
+lap_091,All supplementary path constraints,scaled,0.0566045298408137,1e-05,false
+lap_091,Four friction ellipse constraints,scaled,0.0566045298408137,1e-05,false
+lap_091,Algebraic load transfer closure,scaled,0.04616362657917013,1e-05,false
+lap_091,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_091,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_091,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_091,All input slew limits,per_channel_physical_units,137.77087264453257,0.05,false
+lap_091,Rear motor torque ceiling,N m,4.120010999031365e-10,0.01,true
+lap_091,Rear motor power ceilings,W,58.22427708705072,0.05,false
+lap_091,Front motor power ceiling,W,0.0,0.05,true
+lap_091,Full supplementary diagnostic,,,,false
+lap_092,Collocation dynamics and state continuity,scaled,3.69414821693823e-07,1e-05,true
+lap_092,All supplementary path constraints,scaled,0.07602388561699365,1e-05,false
+lap_092,Four friction ellipse constraints,scaled,0.07602388561699365,1e-05,false
+lap_092,Algebraic load transfer closure,scaled,0.04770356645205043,1e-05,false
+lap_092,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_092,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_092,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_092,All input slew limits,per_channel_physical_units,360.4192402361896,0.05,false
+lap_092,Rear motor torque ceiling,N m,4.547473508864641e-13,0.01,true
+lap_092,Rear motor power ceilings,W,27.900077590020373,0.05,false
+lap_092,Front motor power ceiling,W,33.16235299303662,0.05,false
+lap_092,Full supplementary diagnostic,,,,false
+lap_093,Collocation dynamics and state continuity,scaled,1.7530297174821186e-09,1e-05,true
+lap_093,All supplementary path constraints,scaled,0.07321857276392531,1e-05,false
+lap_093,Four friction ellipse constraints,scaled,0.07321857276392531,1e-05,false
+lap_093,Algebraic load transfer closure,scaled,0.047683572594921494,1e-05,false
+lap_093,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_093,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_093,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_093,All input slew limits,per_channel_physical_units,73.67947553511112,0.05,false
+lap_093,Rear motor torque ceiling,N m,9.094947017729282e-13,0.01,true
+lap_093,Rear motor power ceilings,W,41.508026771916775,0.05,false
+lap_093,Front motor power ceiling,W,0.0,0.05,true
+lap_093,Full supplementary diagnostic,,,,false
+lap_094,Collocation dynamics and state continuity,scaled,2.593705216141079e-07,1e-05,true
+lap_094,All supplementary path constraints,scaled,0.05638395225339062,1e-05,false
+lap_094,Four friction ellipse constraints,scaled,0.05638395225339062,1e-05,false
+lap_094,Algebraic load transfer closure,scaled,0.04536441346818564,1e-05,false
+lap_094,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_094,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_094,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_094,All input slew limits,per_channel_physical_units,259.1058354775796,0.05,false
+lap_094,Rear motor torque ceiling,N m,9.094947017729282e-13,0.01,true
+lap_094,Rear motor power ceilings,W,50.175959103537025,0.05,false
+lap_094,Front motor power ceiling,W,0.0,0.05,true
+lap_094,Full supplementary diagnostic,,,,false
+lap_095,Collocation dynamics and state continuity,scaled,9.245925336118233e-11,1e-05,true
+lap_095,All supplementary path constraints,scaled,0.05616985321039277,1e-05,false
+lap_095,Four friction ellipse constraints,scaled,0.05616985321039277,1e-05,false
+lap_095,Algebraic load transfer closure,scaled,0.04842060688570787,1e-05,false
+lap_095,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_095,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_095,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_095,All input slew limits,per_channel_physical_units,69.97599399086539,0.05,false
+lap_095,Rear motor torque ceiling,N m,4.547473508864641e-13,0.01,true
+lap_095,Rear motor power ceilings,W,28.205827645608224,0.05,false
+lap_095,Front motor power ceiling,W,0.0,0.05,true
+lap_095,Full supplementary diagnostic,,,,false
+lap_096,Collocation dynamics and state continuity,scaled,1.2059001713859985e-09,1e-05,true
+lap_096,All supplementary path constraints,scaled,0.08131055917079469,1e-05,false
+lap_096,Four friction ellipse constraints,scaled,0.08131055917079469,1e-05,false
+lap_096,Algebraic load transfer closure,scaled,0.04830558394252089,1e-05,false
+lap_096,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_096,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_096,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_096,All input slew limits,per_channel_physical_units,137.12535651453254,0.05,false
+lap_096,Rear motor torque ceiling,N m,4.547473508864641e-13,0.01,true
+lap_096,Rear motor power ceilings,W,36.69588862618548,0.05,false
+lap_096,Front motor power ceiling,W,31.317693003482418,0.05,false
+lap_096,Full supplementary diagnostic,,,,false
+lap_031,Collocation dynamics and state continuity,scaled,1.83123232700322e-06,1e-05,true
+lap_031,All supplementary path constraints,scaled,0.08225596614787428,1e-05,false
+lap_031,Four friction ellipse constraints,scaled,0.08225596614787428,1e-05,false
+lap_031,Algebraic load transfer closure,scaled,0.049691365304614266,1e-05,false
+lap_031,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_031,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_031,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_031,All input slew limits,per_channel_physical_units,131.07615388413433,0.05,false
+lap_031,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_031,Rear motor power ceilings,W,0.0,0.05,true
+lap_031,Front motor power ceiling,W,41.02626504437649,0.05,false
+lap_031,Full supplementary diagnostic,,,,false
+lap_033,Collocation dynamics and state continuity,scaled,1.8293613336661796e-07,1e-05,true
+lap_033,All supplementary path constraints,scaled,0.05334992432636599,1e-05,false
+lap_033,Four friction ellipse constraints,scaled,0.05334992432636599,1e-05,false
+lap_033,Algebraic load transfer closure,scaled,0.04710736088635911,1e-05,false
+lap_033,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_033,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_033,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_033,All input slew limits,per_channel_physical_units,1390.5091574261369,0.05,false
+lap_033,Rear motor torque ceiling,N m,9.094947017729282e-13,0.01,true
+lap_033,Rear motor power ceilings,W,74.75726570680854,0.05,false
+lap_033,Front motor power ceiling,W,0.0,0.05,true
+lap_033,Full supplementary diagnostic,,,,false
+lap_035,Collocation dynamics and state continuity,scaled,1.9729941030423304e-07,1e-05,true
+lap_035,All supplementary path constraints,scaled,0.0739705129262535,1e-05,false
+lap_035,Four friction ellipse constraints,scaled,0.0739705129262535,1e-05,false
+lap_035,Algebraic load transfer closure,scaled,0.043402465899126476,1e-05,false
+lap_035,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_035,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_035,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_035,All input slew limits,per_channel_physical_units,71.84293045744744,0.05,false
+lap_035,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_035,Rear motor power ceilings,W,0.0,0.05,true
+lap_035,Front motor power ceiling,W,14.482263675658032,0.05,false
+lap_035,Full supplementary diagnostic,,,,false
+lap_097,Collocation dynamics and state continuity,scaled,1.2028659873708492e-08,1e-05,true
+lap_097,All supplementary path constraints,scaled,0.06026365797953835,1e-05,false
+lap_097,Four friction ellipse constraints,scaled,0.06026365797953835,1e-05,false
+lap_097,Algebraic load transfer closure,scaled,0.048160053171863004,1e-05,false
+lap_097,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_097,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_097,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_097,All input slew limits,per_channel_physical_units,86.53985397687757,0.05,false
+lap_097,Rear motor torque ceiling,N m,4.547473508864641e-13,0.01,true
+lap_097,Rear motor power ceilings,W,69.87763363152044,0.05,false
+lap_097,Front motor power ceiling,W,0.0,0.05,true
+lap_097,Full supplementary diagnostic,,,,false
+lap_098,Collocation dynamics and state continuity,scaled,1.484175660342122e-07,1e-05,true
+lap_098,All supplementary path constraints,scaled,0.08144974154290613,1e-05,false
+lap_098,Four friction ellipse constraints,scaled,0.08144974154290613,1e-05,false
+lap_098,Algebraic load transfer closure,scaled,0.04430397174139917,1e-05,false
+lap_098,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_098,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_098,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_098,All input slew limits,per_channel_physical_units,132.97572225738259,0.05,false
+lap_098,Rear motor torque ceiling,N m,4.547473508864641e-13,0.01,true
+lap_098,Rear motor power ceilings,W,41.30232479565893,0.05,false
+lap_098,Front motor power ceiling,W,42.056271969660884,0.05,false
+lap_098,Full supplementary diagnostic,,,,false
+lap_099,Collocation dynamics and state continuity,scaled,4.6242907625077684e-07,1e-05,true
+lap_099,All supplementary path constraints,scaled,0.07785348562664288,1e-05,false
+lap_099,Four friction ellipse constraints,scaled,0.07785348562664288,1e-05,false
+lap_099,Algebraic load transfer closure,scaled,0.043007783903024704,1e-05,false
+lap_099,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_099,Wheel slip constraints,scaled,0.0012129428158229108,1e-05,false
+lap_099,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_099,All input slew limits,per_channel_physical_units,93.036754115019,0.05,false
+lap_099,Rear motor torque ceiling,N m,4.547473508864641e-13,0.01,true
+lap_099,Rear motor power ceilings,W,47.202891298016766,0.05,false
+lap_099,Front motor power ceiling,W,0.0,0.05,true
+lap_099,Full supplementary diagnostic,,,,false
+lap_100,Collocation dynamics and state continuity,scaled,1.3154259882741659e-08,1e-05,true
+lap_100,All supplementary path constraints,scaled,0.05936590603031759,1e-05,false
+lap_100,Four friction ellipse constraints,scaled,0.05936590603031759,1e-05,false
+lap_100,Algebraic load transfer closure,scaled,0.04845832097907483,1e-05,false
+lap_100,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_100,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_100,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_100,All input slew limits,per_channel_physical_units,81.21121970931745,0.05,false
+lap_100,Rear motor torque ceiling,N m,4.547473508864641e-13,0.01,true
+lap_100,Rear motor power ceilings,W,70.1642476838897,0.05,false
+lap_100,Front motor power ceiling,W,0.0,0.05,true
+lap_100,Full supplementary diagnostic,,,,false
+lap_101,Collocation dynamics and state continuity,scaled,1.7394527227453105e-08,1e-05,true
+lap_101,All supplementary path constraints,scaled,0.054656050803102166,1e-05,false
+lap_101,Four friction ellipse constraints,scaled,0.054656050803102166,1e-05,false
+lap_101,Algebraic load transfer closure,scaled,0.05035802885004851,1e-05,false
+lap_101,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_101,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_101,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_101,All input slew limits,per_channel_physical_units,75.4688931995006,0.05,false
+lap_101,Rear motor torque ceiling,N m,4.547473508864641e-13,0.01,true
+lap_101,Rear motor power ceilings,W,43.685720310983015,0.05,false
+lap_101,Front motor power ceiling,W,0.0,0.05,true
+lap_101,Full supplementary diagnostic,,,,false
+lap_102,Collocation dynamics and state continuity,scaled,1.1896535475480752e-09,1e-05,true
+lap_102,All supplementary path constraints,scaled,0.07030293894856779,1e-05,false
+lap_102,Four friction ellipse constraints,scaled,0.07030293894856779,1e-05,false
+lap_102,Algebraic load transfer closure,scaled,0.0448756621665867,1e-05,false
+lap_102,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_102,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_102,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_102,All input slew limits,per_channel_physical_units,69.81735530798323,0.05,false
+lap_102,Rear motor torque ceiling,N m,4.547473508864641e-13,0.01,true
+lap_102,Rear motor power ceilings,W,46.850762634479906,0.05,false
+lap_102,Front motor power ceiling,W,0.0,0.05,true
+lap_102,Full supplementary diagnostic,,,,false
+lap_067,Collocation dynamics and state continuity,scaled,8.386650326522868e-07,1e-05,true
+lap_067,All supplementary path constraints,scaled,0.1390894581396078,1e-05,false
+lap_067,Four friction ellipse constraints,scaled,0.1390894581396078,1e-05,false
+lap_067,Algebraic load transfer closure,scaled,0.021194930596934218,1e-05,false
+lap_067,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_067,Wheel slip constraints,scaled,0.000971920341276097,1e-05,false
+lap_067,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_067,All input slew limits,per_channel_physical_units,101.32869497287538,0.05,false
+lap_067,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_067,Rear motor power ceilings,W,0.0,0.05,true
+lap_067,Front motor power ceiling,W,5.293914224370383,0.05,false
+lap_067,Full supplementary diagnostic,,,,false
+lap_072,Collocation dynamics and state continuity,scaled,2.431679513650864e-08,1e-05,true
+lap_072,All supplementary path constraints,scaled,0.11876006507699194,1e-05,false
+lap_072,Four friction ellipse constraints,scaled,0.11876006507699194,1e-05,false
+lap_072,Algebraic load transfer closure,scaled,0.04394361189002418,1e-05,false
+lap_072,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_072,Wheel slip constraints,scaled,0.0018773518132497412,1e-05,false
+lap_072,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_072,All input slew limits,per_channel_physical_units,72.18756594811384,0.05,false
+lap_072,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_072,Rear motor power ceilings,W,1072.260429979011,0.05,false
+lap_072,Front motor power ceiling,W,0.0,0.05,true
+lap_072,Full supplementary diagnostic,,,,false
+lap_069,Collocation dynamics and state continuity,scaled,1.0305512786017157e-08,1e-05,true
+lap_069,All supplementary path constraints,scaled,0.11465073411992084,1e-05,false
+lap_069,Four friction ellipse constraints,scaled,0.11465073411992084,1e-05,false
+lap_069,Algebraic load transfer closure,scaled,0.039131155719390534,1e-05,false
+lap_069,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_069,Wheel slip constraints,scaled,0.0013740954223842756,1e-05,false
+lap_069,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_069,All input slew limits,per_channel_physical_units,149.8957432360021,0.05,false
+lap_069,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_069,Rear motor power ceilings,W,49.01446684784605,0.05,false
+lap_069,Front motor power ceiling,W,43.82598693750333,0.05,false
+lap_069,Full supplementary diagnostic,,,,false
+lap_103,Collocation dynamics and state continuity,scaled,3.23677516508164e-08,1e-05,true
+lap_103,All supplementary path constraints,scaled,0.11525228603618917,1e-05,false
+lap_103,Four friction ellipse constraints,scaled,0.11525228603618917,1e-05,false
+lap_103,Algebraic load transfer closure,scaled,0.04530330904980748,1e-05,false
+lap_103,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_103,Wheel slip constraints,scaled,0.0016554470212999661,1e-05,false
+lap_103,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_103,All input slew limits,per_channel_physical_units,113.63891942116061,0.05,false
+lap_103,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_103,Rear motor power ceilings,W,965.2286954331503,0.05,false
+lap_103,Front motor power ceiling,W,0.0,0.05,true
+lap_103,Full supplementary diagnostic,,,,false
+lap_104,Collocation dynamics and state continuity,scaled,3.102116462880625e-08,1e-05,true
+lap_104,All supplementary path constraints,scaled,0.1159379742703128,1e-05,false
+lap_104,Four friction ellipse constraints,scaled,0.1159379742703128,1e-05,false
+lap_104,Algebraic load transfer closure,scaled,0.04104205427133138,1e-05,false
+lap_104,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_104,Wheel slip constraints,scaled,0.002730050080951868,1e-05,false
+lap_104,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_104,All input slew limits,per_channel_physical_units,94.22513512353544,0.05,false
+lap_104,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_104,Rear motor power ceilings,W,46.0254987681692,0.05,false
+lap_104,Front motor power ceiling,W,17.295324109640205,0.05,false
+lap_104,Full supplementary diagnostic,,,,false
+lap_105,Collocation dynamics and state continuity,scaled,3.0090930823456485e-09,1e-05,true
+lap_105,All supplementary path constraints,scaled,0.11608860262906878,1e-05,false
+lap_105,Four friction ellipse constraints,scaled,0.11608860262906878,1e-05,false
+lap_105,Algebraic load transfer closure,scaled,0.0430582903843902,1e-05,false
+lap_105,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_105,Wheel slip constraints,scaled,0.0010541066990643506,1e-05,false
+lap_105,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_105,All input slew limits,per_channel_physical_units,34.83842940753311,0.05,false
+lap_105,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_105,Rear motor power ceilings,W,311.2482051165134,0.05,false
+lap_105,Front motor power ceiling,W,0.0,0.05,true
+lap_105,Full supplementary diagnostic,,,,false
+lap_106,Collocation dynamics and state continuity,scaled,1.635305229771844e-09,1e-05,true
+lap_106,All supplementary path constraints,scaled,0.11573392826425366,1e-05,false
+lap_106,Four friction ellipse constraints,scaled,0.11573392826425366,1e-05,false
+lap_106,Algebraic load transfer closure,scaled,0.04196706818674957,1e-05,false
+lap_106,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_106,Wheel slip constraints,scaled,0.0015861003649578834,1e-05,false
+lap_106,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_106,All input slew limits,per_channel_physical_units,122.85652215575283,0.05,false
+lap_106,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_106,Rear motor power ceilings,W,1090.7166386385798,0.05,false
+lap_106,Front motor power ceiling,W,0.0,0.05,true
+lap_106,Full supplementary diagnostic,,,,false
+lap_107,Collocation dynamics and state continuity,scaled,1.4991657030366534e-09,1e-05,true
+lap_107,All supplementary path constraints,scaled,0.11369705207538723,1e-05,false
+lap_107,Four friction ellipse constraints,scaled,0.11369705207538723,1e-05,false
+lap_107,Algebraic load transfer closure,scaled,0.04479397803602339,1e-05,false
+lap_107,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_107,Wheel slip constraints,scaled,0.002488453209211927,1e-05,false
+lap_107,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_107,All input slew limits,per_channel_physical_units,0.0,0.05,true
+lap_107,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_107,Rear motor power ceilings,W,39.163175875728484,0.05,false
+lap_107,Front motor power ceiling,W,0.0,0.05,true
+lap_107,Full supplementary diagnostic,,,,false
+lap_108,Collocation dynamics and state continuity,scaled,3.1482763361134064e-08,1e-05,true
+lap_108,All supplementary path constraints,scaled,0.11877014997707776,1e-05,false
+lap_108,Four friction ellipse constraints,scaled,0.11877014997707776,1e-05,false
+lap_108,Algebraic load transfer closure,scaled,0.040310162183241065,1e-05,false
+lap_108,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_108,Wheel slip constraints,scaled,0.0014065866276999558,1e-05,false
+lap_108,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_108,All input slew limits,per_channel_physical_units,24.062226862637544,0.05,false
+lap_108,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_108,Rear motor power ceilings,W,284.6371860075451,0.05,false
+lap_108,Front motor power ceiling,W,0.0,0.05,true
+lap_108,Full supplementary diagnostic,,,,false
+lap_073,Collocation dynamics and state continuity,scaled,5.274309395238153e-07,1e-05,true
+lap_073,All supplementary path constraints,scaled,0.04280824582790833,1e-05,false
+lap_073,Four friction ellipse constraints,scaled,0.04280824582790833,1e-05,false
+lap_073,Algebraic load transfer closure,scaled,0.0326785789072285,1e-05,false
+lap_073,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_073,Wheel slip constraints,scaled,0.0006858758242382877,1e-05,false
+lap_073,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_073,All input slew limits,per_channel_physical_units,110.99576809637438,0.05,false
+lap_073,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_073,Rear motor power ceilings,W,0.0,0.05,true
+lap_073,Front motor power ceiling,W,6.592384274088545,0.05,false
+lap_073,Full supplementary diagnostic,,,,false
+lap_078,Collocation dynamics and state continuity,scaled,8.063130205009095e-08,1e-05,true
+lap_078,All supplementary path constraints,scaled,0.10075758718418948,1e-05,false
+lap_078,Four friction ellipse constraints,scaled,0.10075758718418948,1e-05,false
+lap_078,Algebraic load transfer closure,scaled,0.057730168563803995,1e-05,false
+lap_078,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_078,Wheel slip constraints,scaled,0.0018810879900747687,1e-05,false
+lap_078,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_078,All input slew limits,per_channel_physical_units,110.63111597710667,0.05,false
+lap_078,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_078,Rear motor power ceilings,W,1756.9947594106488,0.05,false
+lap_078,Front motor power ceiling,W,0.0,0.05,true
+lap_078,Full supplementary diagnostic,,,,false
+lap_075,Collocation dynamics and state continuity,scaled,2.5241616653532556e-07,1e-05,true
+lap_075,All supplementary path constraints,scaled,0.10716821868524297,1e-05,false
+lap_075,Four friction ellipse constraints,scaled,0.10716821868524297,1e-05,false
+lap_075,Algebraic load transfer closure,scaled,0.04175347990589953,1e-05,false
+lap_075,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_075,Wheel slip constraints,scaled,0.004857026750740633,1e-05,false
+lap_075,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_075,All input slew limits,per_channel_physical_units,185.8495664275033,0.05,false
+lap_075,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_075,Rear motor power ceilings,W,0.0,0.05,true
+lap_075,Front motor power ceiling,W,0.0,0.05,true
+lap_075,Full supplementary diagnostic,,,,false
+lap_109,Collocation dynamics and state continuity,scaled,6.788943375871104e-08,1e-05,true
+lap_109,All supplementary path constraints,scaled,0.05188413990443718,1e-05,false
+lap_109,Four friction ellipse constraints,scaled,0.03870089392657013,1e-05,false
+lap_109,Algebraic load transfer closure,scaled,0.05188413990443718,1e-05,false
+lap_109,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_109,Wheel slip constraints,scaled,0.0025879131980020287,1e-05,false
+lap_109,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_109,All input slew limits,per_channel_physical_units,133.34643741255786,0.05,false
+lap_109,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_109,Rear motor power ceilings,W,1618.4629072618263,0.05,false
+lap_109,Front motor power ceiling,W,0.0,0.05,true
+lap_109,Full supplementary diagnostic,,,,false
+lap_110,Collocation dynamics and state continuity,scaled,1.1940107613023741e-10,1e-05,true
+lap_110,All supplementary path constraints,scaled,0.11207083768860367,1e-05,false
+lap_110,Four friction ellipse constraints,scaled,0.11207083768860367,1e-05,false
+lap_110,Algebraic load transfer closure,scaled,0.04529061248326328,1e-05,false
+lap_110,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_110,Wheel slip constraints,scaled,0.00607018653420327,1e-05,false
+lap_110,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_110,All input slew limits,per_channel_physical_units,169.62278945518665,0.05,false
+lap_110,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_110,Rear motor power ceilings,W,1439.728347029013,0.05,false
+lap_110,Front motor power ceiling,W,127.15119067771593,0.05,false
+lap_110,Full supplementary diagnostic,,,,false
+lap_111,Collocation dynamics and state continuity,scaled,8.776524499341798e-09,1e-05,true
+lap_111,All supplementary path constraints,scaled,0.10366263382557275,1e-05,false
+lap_111,Four friction ellipse constraints,scaled,0.10366263382557275,1e-05,false
+lap_111,Algebraic load transfer closure,scaled,0.0409626773678779,1e-05,false
+lap_111,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_111,Wheel slip constraints,scaled,0.005692865059251359,1e-05,false
+lap_111,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_111,All input slew limits,per_channel_physical_units,87.25874940435642,0.05,false
+lap_111,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_111,Rear motor power ceilings,W,1082.2011325779313,0.05,false
+lap_111,Front motor power ceiling,W,44.11661150978762,0.05,false
+lap_111,Full supplementary diagnostic,,,,false
+lap_112,Collocation dynamics and state continuity,scaled,6.397052309745077e-09,1e-05,true
+lap_112,All supplementary path constraints,scaled,0.049014652812124256,1e-05,false
+lap_112,Four friction ellipse constraints,scaled,0.03885490855459134,1e-05,false
+lap_112,Algebraic load transfer closure,scaled,0.049014652812124256,1e-05,false
+lap_112,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_112,Wheel slip constraints,scaled,0.0025844941921889554,1e-05,false
+lap_112,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_112,All input slew limits,per_channel_physical_units,131.5797515925442,0.05,false
+lap_112,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_112,Rear motor power ceilings,W,1674.0367085503822,0.05,false
+lap_112,Front motor power ceiling,W,0.0,0.05,true
+lap_112,Full supplementary diagnostic,,,,false
+lap_113,Collocation dynamics and state continuity,scaled,4.066585366190034e-09,1e-05,true
+lap_113,All supplementary path constraints,scaled,0.10910144933711187,1e-05,false
+lap_113,Four friction ellipse constraints,scaled,0.10910144933711187,1e-05,false
+lap_113,Algebraic load transfer closure,scaled,0.042750490904622934,1e-05,false
+lap_113,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_113,Wheel slip constraints,scaled,0.005568771478362544,1e-05,false
+lap_113,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_113,All input slew limits,per_channel_physical_units,47.589244953011075,0.05,false
+lap_113,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_113,Rear motor power ceilings,W,1458.1918520237086,0.05,false
+lap_113,Front motor power ceiling,W,96.6345196600596,0.05,false
+lap_113,Full supplementary diagnostic,,,,false
+lap_114,Collocation dynamics and state continuity,scaled,3.89692322752918e-11,1e-05,true
+lap_114,All supplementary path constraints,scaled,0.10611231715223716,1e-05,false
+lap_114,Four friction ellipse constraints,scaled,0.10611231715223716,1e-05,false
+lap_114,Algebraic load transfer closure,scaled,0.044662328896326015,1e-05,false
+lap_114,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_114,Wheel slip constraints,scaled,0.006966274783352759,1e-05,false
+lap_114,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_114,All input slew limits,per_channel_physical_units,167.81432950644012,0.05,false
+lap_114,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_114,Rear motor power ceilings,W,1084.6494418764778,0.05,false
+lap_114,Front motor power ceiling,W,75.41254633452627,0.05,false
+lap_114,Full supplementary diagnostic,,,,false
+lap_079,Collocation dynamics and state continuity,scaled,5.092162526944971e-06,1e-05,true
+lap_079,All supplementary path constraints,scaled,0.03774975497447465,1e-05,false
+lap_079,Four friction ellipse constraints,scaled,0.03774975497447465,1e-05,false
+lap_079,Algebraic load transfer closure,scaled,0.027500386667743376,1e-05,false
+lap_079,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_079,Wheel slip constraints,scaled,0.006759866932617726,1e-05,false
+lap_079,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_079,All input slew limits,per_channel_physical_units,0.0,0.05,true
+lap_079,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_079,Rear motor power ceilings,W,0.0,0.05,true
+lap_079,Front motor power ceiling,W,5.536670036875876,0.05,false
+lap_079,Full supplementary diagnostic,,,,false
+lap_084,Collocation dynamics and state continuity,scaled,7.951881809270533e-09,1e-05,true
+lap_084,All supplementary path constraints,scaled,0.03528769251349576,1e-05,false
+lap_084,Four friction ellipse constraints,scaled,0.03528769251349576,1e-05,false
+lap_084,Algebraic load transfer closure,scaled,0.03325421302239082,1e-05,false
+lap_084,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_084,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_084,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_084,All input slew limits,per_channel_physical_units,82.325437652662,0.05,false
+lap_084,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_084,Rear motor power ceilings,W,1611.4473195723258,0.05,false
+lap_084,Front motor power ceiling,W,0.0,0.05,true
+lap_084,Full supplementary diagnostic,,,,false
+lap_081,Collocation dynamics and state continuity,scaled,8.810070695718097e-08,1e-05,true
+lap_081,All supplementary path constraints,scaled,0.07704996015635839,1e-05,false
+lap_081,Four friction ellipse constraints,scaled,0.07704996015635839,1e-05,false
+lap_081,Algebraic load transfer closure,scaled,0.03549756842257188,1e-05,false
+lap_081,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_081,Wheel slip constraints,scaled,0.0030183904754559378,1e-05,false
+lap_081,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_081,All input slew limits,per_channel_physical_units,70.65643827350868,0.05,false
+lap_081,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_081,Rear motor power ceilings,W,147.42635889706435,0.05,false
+lap_081,Front motor power ceiling,W,20.150610474840505,0.05,false
+lap_081,Full supplementary diagnostic,,,,false
+lap_115,Collocation dynamics and state continuity,scaled,1.65768950823042e-09,1e-05,true
+lap_115,All supplementary path constraints,scaled,0.07198530191680154,1e-05,false
+lap_115,Four friction ellipse constraints,scaled,0.07198530191680154,1e-05,false
+lap_115,Algebraic load transfer closure,scaled,0.05089050275699341,1e-05,false
+lap_115,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_115,Wheel slip constraints,scaled,0.00028117326748283017,1e-05,false
+lap_115,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_115,All input slew limits,per_channel_physical_units,0.0,0.05,true
+lap_115,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_115,Rear motor power ceilings,W,870.3616605480493,0.05,false
+lap_115,Front motor power ceiling,W,0.0,0.05,true
+lap_115,Full supplementary diagnostic,,,,false
+lap_116,Collocation dynamics and state continuity,scaled,2.77433840549339e-08,1e-05,true
+lap_116,All supplementary path constraints,scaled,0.07966224550197328,1e-05,false
+lap_116,Four friction ellipse constraints,scaled,0.07966224550197328,1e-05,false
+lap_116,Algebraic load transfer closure,scaled,0.03685380666612831,1e-05,false
+lap_116,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_116,Wheel slip constraints,scaled,0.0004170792231642309,1e-05,false
+lap_116,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_116,All input slew limits,per_channel_physical_units,0.0,0.05,true
+lap_116,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_116,Rear motor power ceilings,W,1095.9161359743157,0.05,false
+lap_116,Front motor power ceiling,W,0.0,0.05,true
+lap_116,Full supplementary diagnostic,,,,false
+lap_117,Collocation dynamics and state continuity,scaled,5.186356689468666e-08,1e-05,true
+lap_117,All supplementary path constraints,scaled,0.105927315051373,1e-05,false
+lap_117,Four friction ellipse constraints,scaled,0.105927315051373,1e-05,false
+lap_117,Algebraic load transfer closure,scaled,0.03285037592683284,1e-05,false
+lap_117,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_117,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_117,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_117,All input slew limits,per_channel_physical_units,117.277631728306,0.05,false
+lap_117,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_117,Rear motor power ceilings,W,837.3204188880045,0.05,false
+lap_117,Front motor power ceiling,W,28.500718197989045,0.05,false
+lap_117,Full supplementary diagnostic,,,,false
+lap_118,Collocation dynamics and state continuity,scaled,1.5064867854922004e-08,1e-05,true
+lap_118,All supplementary path constraints,scaled,0.08364029134206989,1e-05,false
+lap_118,Four friction ellipse constraints,scaled,0.08364029134206989,1e-05,false
+lap_118,Algebraic load transfer closure,scaled,0.05489602860649318,1e-05,false
+lap_118,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_118,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_118,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_118,All input slew limits,per_channel_physical_units,55.25073445221096,0.05,false
+lap_118,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_118,Rear motor power ceilings,W,781.4180097579083,0.05,false
+lap_118,Front motor power ceiling,W,0.0,0.05,true
+lap_118,Full supplementary diagnostic,,,,false
+lap_119,Collocation dynamics and state continuity,scaled,2.3657683275620498e-08,1e-05,true
+lap_119,All supplementary path constraints,scaled,0.08390516266612642,1e-05,false
+lap_119,Four friction ellipse constraints,scaled,0.08390516266612642,1e-05,false
+lap_119,Algebraic load transfer closure,scaled,0.0375762620872357,1e-05,false
+lap_119,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_119,Wheel slip constraints,scaled,0.0003821680791144342,1e-05,false
+lap_119,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_119,All input slew limits,per_channel_physical_units,68.39203106200512,0.05,false
+lap_119,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_119,Rear motor power ceilings,W,1062.023896486382,0.05,false
+lap_119,Front motor power ceiling,W,83.37108403415186,0.05,false
+lap_119,Full supplementary diagnostic,,,,false
+lap_120,Collocation dynamics and state continuity,scaled,2.623008592689269e-07,1e-05,true
+lap_120,All supplementary path constraints,scaled,0.09938717386390582,1e-05,false
+lap_120,Four friction ellipse constraints,scaled,0.09938717386390582,1e-05,false
+lap_120,Algebraic load transfer closure,scaled,0.03495011068703177,1e-05,false
+lap_120,Positive wheel-load constraints,scaled,0.0,1e-05,true
+lap_120,Wheel slip constraints,scaled,0.0,1e-05,true
+lap_120,Available vehicle power constraint,scaled,0.0,1e-05,true
+lap_120,All input slew limits,per_channel_physical_units,63.122935777870225,0.05,false
+lap_120,Rear motor torque ceiling,N m,0.0,0.01,true
+lap_120,Rear motor power ceilings,W,838.5874464157969,0.05,false
+lap_120,Front motor power ceiling,W,0.0,0.05,true
+lap_120,Full supplementary diagnostic,,,,false
