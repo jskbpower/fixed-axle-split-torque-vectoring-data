@@ -1,0 +1,12 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite it using the metadata below."
+title: "Fixed axle split rear torque vectoring data"
+type: dataset
+version: "1.0.0"
+authors:
+  - given-names: Longjie
+    family-names: Ren
+    orcid: "https://orcid.org/0009-0009-0286-5474"
+  - given-names: Lin
+    family-names: Chen
+
